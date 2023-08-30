@@ -2,11 +2,7 @@
 
 Perkenalkan nama saya **Irfando**.
 
-Saya seorang **Mahasiswa** di [Universitas Mikroskil Medan](https://www.mikroskil.ac.id/).
-Saya juga merupakan lulusan Studi Independen [Bangkit Academy 2022](https://grow.google/intl/id_id/bangkit/),
-jalur yang saya ambil yaitu **Mobile Development**. Saya memiliki tujuan untuk menjadi seorang software developer.
-
-Di kampus saya mengikuti organisasi [Ikatan Mahasiswa Sistem Informasi](https://www.instagram.com/imsimikroskil/?hl=id) saya menjadi anggota HUMAS.
+Lulusan baru Sistem Informasi yang memiliki passion di bidang bisnis dan teknologi dengan keunggulan dalam bekerja sama dengan orang lain untuk mencapai tujuan tertentu tepat waktu. Saya adalah orang yang energik dan ambisius yang telah mengembangkan pendekatan yang matang dan bertanggung jawab terhadap tugas apa pun yang saya lakukan atau situasi yang saya hadapi. Saya memiliki keahlian dalam membuat website dengan pendekatan mobile first dan mengimplementasikan Progressive Web Applications (PWA), mengimplementasikan aksesibilitas website. Membuat aplikasi android dengan pemrograman kotlin, retrofit, membuat aplikasi menarik, mengimplementasikan layanan, melakukan pengujian. Di kampus saya mengikuti organisasi [Ikatan Mahasiswa Sistem Informasi](https://www.instagram.com/imsimikroskil/?hl=id) saya menjadi anggota HUMAS.
 
 
 
