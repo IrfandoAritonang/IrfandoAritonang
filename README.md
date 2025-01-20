@@ -1,8 +1,14 @@
-# Halo semua!👋 
+# Hello!👋 
 
-Perkenalkan nama saya **Irfando**.
+I'm **Irfando**.
 
-Lulusan baru Sistem Informasi yang memiliki passion di bidang bisnis dan teknologi dengan keunggulan dalam bekerja sama dengan orang lain untuk mencapai tujuan tertentu tepat waktu. Saya adalah orang yang energik dan ambisius yang telah mengembangkan pendekatan yang matang dan bertanggung jawab terhadap tugas apa pun yang saya lakukan atau situasi yang saya hadapi. Saya memiliki keahlian dalam membuat website dengan pendekatan mobile first dan mengimplementasikan Progressive Web Applications (PWA), mengimplementasikan aksesibilitas website. Membuat aplikasi android dengan pemrograman kotlin, retrofit, membuat aplikasi menarik, mengimplementasikan layanan, melakukan pengujian. Di kampus saya mengikuti organisasi [Ikatan Mahasiswa Sistem Informasi](https://www.instagram.com/imsimikroskil/?hl=id) saya menjadi anggota HUMAS.
+I am a Web Developer with 1 year of experience in an IT Consultant company, specializing in backend
+development and microservices architecture. I have expertise in creating scalable services using Java Spring
+Boot and Golang, managing databases with PostgreSQL, and leveraging Apache Kafka as a message broker.
+My skill set includes proficiency in SQL for DDL, DML, and DCL operations, system design using UML
+diagrams, and functional system development with Node.js, Java, and Golang. Additionally, I have hands-
+on experience with tools like Docker, Postman, and SOAPUI. I have also utilized tools such as Jenkins and
+AWS for Kubernetes to configure deployment services.
 
 
 
